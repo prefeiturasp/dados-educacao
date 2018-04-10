@@ -7,7 +7,7 @@ Utilizamos aqui a biblioteca Pandas, poderosa ferramenta de análise de dados do
 **Requisitos:** 
 
 * Noções de Python /ou/ vontade de aprender!
-* Instalação do Python e bibliotecas como numpy e pandas. Para facilitar, recomendo a instalação do Anaconda, que, além do Python, já vem com [mais de 150 pacotes](https://docs.anaconda.com/anaconda/packages/pkg-docs) relacionados a Ciência de Dados. [Saiba mais](https://conda.io/docs/user-guide/install/download.html).
+* Instalação do Python e bibliotecas como numpy e pandas. Para facilitar, você pode instalar o Anaconda, que, além do Python, já vem com [mais de 150 pacotes](https://docs.anaconda.com/anaconda/packages/pkg-docs) relacionados a Ciência de Dados. [Saiba mais](https://conda.io/docs/user-guide/install/download.html).
 
 **Dados:**
 
